@@ -25,6 +25,10 @@ li {
   display: inline-block;
 }
 
+.underlist {
+  padding= 20px;
+}
+
 .mainphoto {
   position: sticky;
   padding-left: 200px;
