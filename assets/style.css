@@ -31,6 +31,7 @@ li {
 
 .mainphoto {
   position: sticky;
+  display: inline-block;
   padding-left: 200px;
   height: 1000px;
   width: 500px;
