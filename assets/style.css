@@ -26,7 +26,8 @@ li {
 }
 
 .mainphoto {
-  position: relative;
+  position: sticky;
+  padding-left: 200px;
   height: 1000px;
   width: 500px;
   margin: auto;
