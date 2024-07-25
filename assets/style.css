@@ -30,8 +30,7 @@ li {
 
 .mainphoto {
   display: relative;
-  align-content: center;
-  padding-right: 500px;
+  padding-left: 500px;
   height: 1000px;
   width: 500px;
   top: 100px;
