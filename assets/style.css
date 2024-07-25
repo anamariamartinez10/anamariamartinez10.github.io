@@ -1,6 +1,10 @@
+* {
+  font-family: "Nunito", sans-serif;
+}
 
 h1 {
   text-align: right;
+  font-weight: 400;
 }
 
 h2 {
