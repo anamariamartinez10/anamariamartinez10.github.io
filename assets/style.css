@@ -38,7 +38,7 @@ li {
 .mainphoto {
   position: sticky;
   display: inline-block;
-  padding-left: 200px;
+  padding-left: 100px;
   height: 1000px;
   width: 500px;
   margin: auto;
@@ -46,7 +46,7 @@ li {
 
 .momphoto {
   postion: sticky;
-  padding-right: 200px;
+  padding-right: 100px;
   z-index: 1;
   display: inline-block;
   height: 1000px;
