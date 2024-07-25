@@ -29,7 +29,7 @@ li {
 }
 
 .mainphoto {
-  display: fixed;
+  display: relative;
   align-content: center;
   padding: 20px;
   height: 1000px;
