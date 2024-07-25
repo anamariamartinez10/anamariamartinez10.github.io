@@ -3,6 +3,17 @@ h1 {
   text-size: 20 px;
 }
 
-background {
-  color: yellow;
+h2 {
+  text-align: right;
+}
+
+li {
+  text-align: right;
+}
+
+.mainphoto {
+  display: fixed;
+  padding: 20px;
+  height: 1000px;
+  width: 800px;
 }
