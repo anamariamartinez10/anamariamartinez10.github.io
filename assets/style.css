@@ -30,7 +30,7 @@ li {
 }
 
 .mainphoto {
-  display: relative;
+  display: sticky;
   padding-left: 500px;
   height: 1000px;
   width: 500px;
