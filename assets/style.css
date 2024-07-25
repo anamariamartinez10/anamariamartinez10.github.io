@@ -21,6 +21,10 @@ h2 {
   top: 2px;
 }
 
+ul {
+  list-type-style: none;
+}
+
 li {
   text-align: right;
 }
