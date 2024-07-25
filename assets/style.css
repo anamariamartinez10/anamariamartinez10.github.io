@@ -22,7 +22,7 @@ h2 {
 
 li {
   text-align: right;
-  display: inline;
+  display: inline-block;
 }
 
 .mainphoto {
