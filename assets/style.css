@@ -22,7 +22,6 @@ h2 {
 
 li {
   text-align: right;
-  display: inline-block;
 }
 
 .underlist {
@@ -35,4 +34,11 @@ li {
   height: 1000px;
   width: 500px;
   margin: auto;
+}
+
+.momphoto {
+  display: inline-block;
+  height: 1000px;
+  width: 500px;
+  margin: auto 5px;
 }
