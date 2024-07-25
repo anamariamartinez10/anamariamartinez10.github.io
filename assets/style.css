@@ -20,13 +20,9 @@ h2 {
   text-align: right;
 }
 
-ul {
-  text-align: right;
-  display: inline;
-}
-
 li {
   text-align: right;
+  display: inline;
 }
 
 .mainphoto {
