@@ -31,7 +31,7 @@ li {
 .mainphoto {
   display: relative;
   align-content: center;
-  padding: 20px;
+  padding-right: 500px;
   height: 1000px;
   width: 500px;
   top: 100px;
