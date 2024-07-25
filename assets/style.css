@@ -16,9 +16,15 @@ ul {
   display: inline;
 }
 
+li {
+  text-align: right;
+}
+
 .mainphoto {
   display: fixed;
+  align-content: center;
   padding: 20px;
   height: 1000px;
-  width: 600px;
+  width: 500px;
+  top: 100px;
 }
