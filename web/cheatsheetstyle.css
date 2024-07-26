@@ -12,17 +12,19 @@ body {
   font-family: 'Barlow';
   font-weight: 400;
   text-transform: uppercase;
-  color: #6d4b6e;
+  color: Indigo;
 }
 
 .htmlheader {
   line-height: 50%;
   font-family: 'Courier New';
+  color: Coral;
 }
 
 .cssheader {
   line-height: 50%;
   font-family: Papyrus;
+  color: MediumVioletRed;
 }
 
 .htmltable {
