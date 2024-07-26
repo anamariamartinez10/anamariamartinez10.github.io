@@ -5,6 +5,7 @@ body {
 header {
   font-family: 'Barlow';
   font-weight: 200;
+  text-transform: uppercase;
 }
 
 .htmltable {
