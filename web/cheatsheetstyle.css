@@ -17,8 +17,16 @@ header {
 
 .reminders {
   padding-left: 200px;
+  font-family: 'Arial Black';
 }
 
 table {
   border-style: dashed;
+  border-width: 1px;
+  border-color: #f7b90c;
 }
+
+th {
+  text-align: left;
+}
+
