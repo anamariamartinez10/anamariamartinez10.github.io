@@ -15,6 +15,16 @@ body {
   color: #6d4b6e;
 }
 
+.htmlheader {
+  line-height: 50%;
+  font-family: 'Courier New';
+}
+
+.cssheader {
+  line-height: 50%;
+  font-family: Papyrus;
+}
+
 .htmltable {
   margin-left: 200px;
 }
