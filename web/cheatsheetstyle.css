@@ -31,7 +31,7 @@ header {
 .list {
   font-family:'Arial Narrow'; 
   padding-left: 200px;
-  list-style-type: space-counter;
+  list-style-type: none;
 }
 
 table {
