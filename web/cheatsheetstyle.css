@@ -6,3 +6,11 @@ header {
   font-family: 'Barlow Thin';
   font-weight: 200;
 }
+
+.htmltable {
+  padding-left: 200px;
+}
+
+.csstable {
+  padding-left: 200px;
+}
