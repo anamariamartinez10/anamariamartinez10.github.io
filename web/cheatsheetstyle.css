@@ -8,8 +8,8 @@ body {
   font-style: normal;
 }
 
-header {
-  font-family: Verdana;
+.header {
+  font-family: 'Barlow';
   font-weight: 400;
   text-transform: uppercase;
   color: #6d4b6e;
