@@ -48,7 +48,7 @@ li {
 }
 
 .momphoto {
-  postion: fixed;
+  postion: sticky;
   padding-right: 100px;
   z-index: 1;
   display: inline-block;
