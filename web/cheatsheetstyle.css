@@ -17,7 +17,11 @@ header {
 
 .reminders {
   padding-left: 200px;
-  font-family: 'Arial Black';
+  font-family: 'Palatino';
+}
+
+.list {
+  font-family:'Arial Narrow'; 
 }
 
 table {
