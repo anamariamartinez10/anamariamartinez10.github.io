@@ -14,3 +14,11 @@ header {
 .csstable {
   padding-left: 200px;
 }
+
+.reminders {
+  padding-left: 200px;
+}
+
+table {
+  border-style: dashed;
+}
