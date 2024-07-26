@@ -10,12 +10,14 @@ body {
 
 .header {
   font-family: 'Barlow';
-  font-weight: 400;
+  font-weight: 700;
+  font-size: 40;
   text-transform: uppercase;
   color: Indigo;
 }
 
 .htmlheader {
+  margin-top: 50px;
   line-height: 50%;
   font-family: 'Courier New';
   color: Coral;
