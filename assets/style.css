@@ -50,7 +50,7 @@ li {
 .momphoto {
   postion: fixed;
   padding-right: 100px;
-  padding-left: 1110px;
+  padding-left: 50px;
   z-index: 0;
   display: inline-block;
   height: 1000px;
