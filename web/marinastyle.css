@@ -2,7 +2,8 @@
   font-family:'Literata';
   font-weight: 400;
   font-size: 48px;
-  margin-top: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   text-align: center;
   text-color: DimGray;
   background-color: AntiqueWhite;
@@ -12,7 +13,14 @@
   font-family: 'Literata';
   font-weight: 200;
   text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 0px;
   background-color: Thistle;
+}
+
+body {
+  text-align: center;
 }
 
 .color-block{
