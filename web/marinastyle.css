@@ -32,7 +32,7 @@ h1{
 
 .color-title{
   font-family: 'Literata';
-  font-weight: 2400;
+  font-weight: 400;
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -68,7 +68,17 @@ h1{
 .DimGray{
   background-color: DimGray;
 }
-  
+
+.font-title{
+  font-family: 'Literata';
+  font-weight: 400;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 0px;
+  background-color: MediumOrchid;
+}
+
 .font-block{
   display: inline-block;
   justify-content: center;
@@ -94,4 +104,14 @@ h1{
 }
 .bold{
   font-weight:400;
+}
+
+.type-title{
+  font-family: 'Literata';
+  font-weight: 400;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 0px;
+  background-color: Thistle;
 }
