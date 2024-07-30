@@ -1,4 +1,4 @@
-h1{
+.header{
   font-family:'Literata';
   font-weight: 400;
   font-size: 48px;
@@ -6,7 +6,7 @@ h1{
   text-align: center;
 }
 
-h2{
+.subheader{
   font-family: 'Literata';
   font-weight: 200;
 }
