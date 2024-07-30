@@ -62,6 +62,7 @@ h1{
 .font-block{
   display: inline-block;
   justify-content: center;
+  align-items: center;
 }
 
 .Literata{
