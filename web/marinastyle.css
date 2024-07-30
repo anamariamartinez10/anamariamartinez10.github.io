@@ -36,6 +36,7 @@ h1{
   width: 150px;
   font-family:'Candara';
   font-size: 20px;
+  justify-content: space-between;
 }
 
 .MediumPurple{
