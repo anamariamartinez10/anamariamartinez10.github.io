@@ -10,4 +10,28 @@
   font-family: 'Literata';
   font-weight: 200;
 }
+
+.color-block{
+  display: inline;
+}
+
+#MediumPurple{
+  background-color: MediumPurple;
+}
+
+#MediumOrchid{
+  background-color: MediumOrchid;
+}
+
+#Thistle{
+  background-color: Thistle;
+}
+
+#AntiqueWhite{
+  background-color: AntiqueWhite;
+}
+
+#DimGray{
+  background-color: DimGray;
+}
   
