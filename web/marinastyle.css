@@ -61,6 +61,7 @@ h1{
   
 .font-block{
   display: inline-block;
+  justify-content: center;
 }
 
 .Literata{
