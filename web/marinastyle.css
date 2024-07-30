@@ -30,6 +30,16 @@ h1{
   font-size: 30px;
 }
 
+.color-title{
+  font-family: 'Literata';
+  font-weight: 2400;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 0px;
+  background-color: MediumPurple;
+}
+
 .color-block{
   display: inline-block;
   padding: 2px;
