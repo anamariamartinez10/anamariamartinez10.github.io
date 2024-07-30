@@ -63,6 +63,8 @@ h1{
   display: inline-block;
   justify-content: center;
   align-items: center;
+  border: solid 1px DimGray;
+  width: 200px;
 }
 
 .Literata{
