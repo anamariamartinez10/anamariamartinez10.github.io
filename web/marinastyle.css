@@ -26,6 +26,9 @@ body {
 .color-block{
   display: inline-block;
   padding: 2px;
+  min-width: 80px
+  font-family: Candara;
+  font-size: 20px;
 }
 
 .MediumPurple{
