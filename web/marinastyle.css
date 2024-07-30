@@ -15,23 +15,23 @@
   display: inline;
 }
 
-#MediumPurple{
+.MediumPurple{
   background-color: MediumPurple;
 }
 
-#MediumOrchid{
+.MediumOrchid{
   background-color: MediumOrchid;
 }
 
-#Thistle{
+.Thistle{
   background-color: Thistle;
 }
 
-#AntiqueWhite{
+.AntiqueWhite{
   background-color: AntiqueWhite;
 }
 
-#DimGray{
+.DimGray{
   background-color: DimGray;
 }
   
