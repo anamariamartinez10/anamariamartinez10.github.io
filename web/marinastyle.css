@@ -25,14 +25,13 @@ body {
 }
 
 h1{
-  font-family:'Literata';
+  font-family: 'Literata';
   font-weight: 400;
   font-size: 30px;
+  color: DimGray;
 }
 
 .color-title{
-  font-family: 'Literata';
-  font-weight: 400;
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -70,8 +69,6 @@ h1{
 }
 
 .font-title{
-  font-family: 'Literata';
-  font-weight: 400;
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -109,8 +106,6 @@ h1{
 }
 
 .type-title{
-  font-family: 'Literata';
-  font-weight: 400;
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
