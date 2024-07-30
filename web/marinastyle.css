@@ -16,7 +16,8 @@
 }
 
 .color-block{
-  display: inline;
+  display: inline-block;
+  padding: 2px;
 }
 
 .MediumPurple{
