@@ -16,6 +16,8 @@ body{
 
 .mission{
   background-image: url(img-mission-background.jpg);
+  height: 700px;
+  width: 1200px;
 }
 
 .locations{
