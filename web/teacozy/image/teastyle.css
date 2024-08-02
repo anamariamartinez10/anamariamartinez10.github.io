@@ -20,6 +20,9 @@ body{
   width: 1200px;
 }
 
+.missiontext{
+  background-color: black;
+
 .locations{
   background-image: url(img-locations-background.jpg);
   height: 500px;
