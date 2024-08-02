@@ -11,7 +11,7 @@ body{
 }
 
 .menu{
-  align-items: left;
+  display: inline-flex;
 }
 
 .mission{
