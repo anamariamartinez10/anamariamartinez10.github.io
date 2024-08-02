@@ -16,6 +16,7 @@ body{
 
 .mission{
   background-image: url(img-mission-background.jpg);
+  justify-content: center;
   height: 700px;
   width: 1200px;
 }
