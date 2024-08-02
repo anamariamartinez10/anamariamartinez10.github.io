@@ -1,15 +1,18 @@
 /* Following Design Spec Sheet for Tea Cozy */
+
 *{
   font-family: Helvetica;
   font-size: 22px;
 }
+
 body{
   background-color: black;
 }
+
 .menu{
   align-items: left;
 }
+
 .mission{
-  background-color: black;
-  align-items: center;
+  background-image: url(img-mission-background.jpg);
 }
