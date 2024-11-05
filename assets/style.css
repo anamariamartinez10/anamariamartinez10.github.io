@@ -1,59 +1,55 @@
-* {
+.page {
   font-family: Nunito, sans-serif;
 }
 
-.nunito-<uniquifier> {
-  font-family: "Nunito", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+.header {
+  display: flex;
 }
 
-h1 {
-  text-align: right;
-  font-weight: 400;
-  font-family: Nunito, sans-serif;
-  font-size: 45px;
+.header__title {
+  font-weight: 200;
+  font-size: 40px;
+  margin: 0;
+  padding:0;
 }
 
-h2 {
-  text-align: right;
-  top: 2px;
-  font-size: 30px;
-}
-
-ul {
-  list-type-style: none;
+.header__subtitle {
   margin: 0;
   padding: 0;
 }
 
-li {
-  text-align: right;
-  font-size: 20px;
-  font-weight: 200px;
+.header__sociallinks {
+  margin-left: auto;
+  padding: 0;
+  list-style-type: none;
 }
 
-.underlist {
-  padding= 20px;
+.header__sociallink {
+  height: 50px;
+  width: 50px;
 }
 
-.mainphoto {
-  position: fixed;
-  display: inline-block;
-  padding-left: 100px;
-  height: 1000px;
-  width: 500px;
-  margin: auto;
+.header__photos {
+  display: flex;
+  justify-content: end;
+  align-items: flex-start;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
 }
 
-.momphoto {
-  postion: fixed;
-  padding-right: 100px;
-  padding-left: 650px;
-  z-index: 0;
-  display: inline-block;
-  height: 1000px;
-  width: 500px;
-  margin: auto 5px;
+.header__photo {
+  margin: 0;
+  padding: 0;
+  width: 243px;
+  height: 832px;
+}
+
+.nav__links {
+  list-style-type: none;
+  padding-right: 40px;
+}
+
+.nav__link:hover {
+  color: purple;
 }
