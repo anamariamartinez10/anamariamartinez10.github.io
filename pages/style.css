@@ -1,0 +1,58 @@
+.page {
+  font-family: Nunito, sans-serif;
+}
+
+.header {
+  display: flex;
+}
+
+.header__title {
+  font-weight: 200;
+  font-size: 40px;
+  margin: 0;
+  padding:0;
+}
+
+.header__subtitle {
+  margin: 0;
+  padding: 0;
+}
+
+.header__sociallinks {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.header__sociallink {
+  height: 50px;
+  width: 50px;
+  margin-top: 0;
+  padding: 0;
+}
+
+.header__sociallink:last-of-type {
+  height: 40px;
+  width: 40px;
+}
+
+.header__photos {
+  margin: 0;
+  padding: 0;
+}
+
+.header__photo {
+  margin: 0;
+  padding: 0;
+  max-width: 450px;
+  max-height: 800px;
+}
+
+.nav__links {
+  list-style-type: none;
+  padding-right: 40px;
+}
+
+.nav__link:hover {
+  color: turquoise;
+}
