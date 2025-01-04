@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+.nav__links {
+    list-style-type: none;
+    margin-left: auto;
+  }
+  
+  .nav__link:hover {
+    color: turquoise;
+  }

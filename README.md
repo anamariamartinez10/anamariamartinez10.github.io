@@ -1,15 +1,13 @@
-<!DOCTYPE html>
-<html>
-  <header>My Portfolio</header>
-  <section>
-    <article>
-      <p>Hello! I learned HTML a long time ago in a far away kingdom. Then I travelled through a land of mental health. 
-        I was a therapist in addiction medicine. Now, I'm wondering if being a clinician is the right path for me. 
-        I am re-familiarizing myself with HTML, and learning CSS and Java Script. I think I want to work in tech and take a step 
-        back from clinical work</p>
-      <figure>
-        <img src="https://cdn.mos.cms.futurecdn.net/e3VZtcLnD3ExmoEVWFyLdY-650-80.jpg.webp" width=600 height=400>
-      </figure>
-    </article>
-  </section>
-</html>
+Hello! Welcome to my portfolio!
+
+This is a collection of my recent work. I am currently enrolled in the 
+Software Engineering bootcamp at Triple Ten's online coding program. I 
+studied Technology, Art, and Media in undergraduate school at the University
+of Colorado at Boulder. For the past decade, I have been working in the mental health and health care fields; mostly for Kaiser Permanente. 
+
+I am excited to shift back to working in tech. I have been brushing up on my HTML and CSS skills, and learning Javascript in order to build websites and work on a web development team. 
+
+For more information please see my Github or LinkedIn pages, both linked on this site. 
+
+Thanks, 
+Ana Maria Martinez

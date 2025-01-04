@@ -1,0 +1,11 @@
+.photos {
+    display: flex;
+    padding: 0;
+  }
+  
+.photo {
+    margin: 0 auto;
+    padding: 0;
+    width: 495px;
+    height: 674px;
+  }
